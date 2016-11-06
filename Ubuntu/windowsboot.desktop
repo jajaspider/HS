@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=Windowsboot
+Type=Application
+Exec="input your shell script file path"
